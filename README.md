@@ -81,6 +81,10 @@ step 4Open in browser
 http://localhost:3000
 screenshots
 <img width="1902" height="981" alt="image" src="https://github.com/user-attachments/assets/7827cedb-a3f6-48bb-ad65-1e8e5daa2cae" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b6cdaf79-d418-439f-b09b-762e5e31f2f0" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/7eb634b5-4b0f-4472-8063-8b4c985e9785" />
+
+
 <img width="1912" height="987" alt="image" src="https://github.com/user-attachments/assets/e7400113-b884-47ad-bbbd-3c14cca0bc85" />
 <img width="1915" height="983" alt="image" src="https://github.com/user-attachments/assets/69889cff-8f0d-47bf-ba92-c4e5bd9e46af" />
 
